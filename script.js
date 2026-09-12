@@ -29,11 +29,11 @@ const letters = [
     keywords: "Handsome, Smart, Genius, Lawyer, JD, Polsci, Polsay, Judge Xiel, Judge",
     preview: "I admire you sm big guy",
     text: `Hey Xiel,
-
-"I admire you so much smart guy. I cry when I read your letters na sobrang eloquent and well thought of. I hope you never lose the spark to write and serve the people. Judge Xiel, I have so much I wanna say to you but I don't have the words yet. Maybe I'll get to tell you gradually as time goes on. Go!! Our Pro bono lawyer!!"
-I wrote this last week and hesitated to send it as I found no purpose in giving you a cliffhanger, I know I could never express everything in just one letter but to the best of what the moment tells me I will write. 
-Fly and Fly father my Pro bono lawyer!! :D
-— Your MD, DVM`
+    
+"I admire you so much smart guy. I cry when I read your letters na sobrang eloquent and well thought of. I hope you never lose the spark to write and serve the people. Judge Xiel, I have so much I wanna say to you but I don't have the words yet. Maybe I'll get to tell you gradually as time goes on. Go!! Our Pro bono lawyer!!" 
+I wrote that last week and hesitated to send it as I found no purpose in giving you a cliffhanger, I know I could never express everything in just one letter (I am easily overwhelmed by all of my thoughts) but to the best of what the moment tells me I will write. I wish you good health and security, your five (or more??) orgs must be super taxing and yet you still compromise yourself to serve the people. This world doesn't deserve a person like you but it desperately needs people like you, keep fighting for the public good Judge Gerasta.
+Hey, pumopogi ka lalo kada nagsesend ka ng letter sa'kin or when I read your writing (the ones you postt), naiiyak ako sa mga letter mo haha, I couldn't write like that in a million lifetimes. howyuduthat king I'm gonna hug u. Hopefully I am fortunate enough that this branch of the universe will let me witness your excellence and service. --- what could your string of letters be saying haa?? super naa-attach ako na nangungulila ako sa'yo.
+— Your Cheng, M.D?, D.V.M. (A.K.A Your number 1 supporter)`
   },
   {
     elevated: true,
