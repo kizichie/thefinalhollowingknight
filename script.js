@@ -297,23 +297,20 @@ This is where your actual letter goes. You can write as much as you want.
   },
   {
     elevated: true,
-    person: "PERSON 15",
+    person: "Xian",
     date: "SEPTEMBER 2026",
     voiceRecording: "letter-15.mp3",
     voiceTitle: "A voice, kept here — 15.",
     voiceDescription: "An audio note attached to this elevated letter.",
-    song: "SONG TITLE",
-    artist: "ARTIST NAME",
-    spotifyId: "PLACEHOLDER",
-    keywords: "person 15 placeholder letter",
-    preview: "A little preview of what this letter contains...",
-    text: `Dear Person 15,
+    song: "Apat",
+    artist: "Zild",
+    spotifyId: "4ZCmT9UdEO8vpL7TIX4EZC",
+    keywords: "Yansi, Carmilla, Rafaela, ML, Axel",
+    preview: "May discount ako 'pag doctor ka na ah.. kimi",
+    text: `Dear Xian,
+Hey miss ko na yung everyday nating roblox and ml :CC I still have so many of our clips and attempts at being youtubers HAHAHAHA. I STILL THINK WE CAN BE KNOWN PAG CONSISTENT LANG TALAGA TAYO. Anyway, I'm still resonating with you all the time-- I know you can feel it through the world, the universe rather. :D (ramdam ko pag-summon mo kay sol) [I'll get u ur milk promise]  --- As of Sept 13, 2026 (this is an update) I have fulfilled my promise to get you your DTRI milk c;
 
-[WRITE YOUR LETTER HERE]
-
-This is where your actual letter goes. You can write as much as you want.
-
-— me`
+— Cheng`
   },
   {
     person: "PERSON 16",
