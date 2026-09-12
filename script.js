@@ -45,23 +45,21 @@ I never feared the end until it meant not seeing how far you will go.
   },
   {
     elevated: true,
-    person: "PERSON 02",
+    person: "Rachelle",
     date: "SEPTEMBER 2026",
     voiceRecording: "letter-02.mp3",
     voiceTitle: "A voice, kept here — 02.",
     voiceDescription: "An audio note attached to this elevated letter.",
-    song: "SONG TITLE",
-    artist: "ARTIST NAME",
-    spotifyId: "PLACEHOLDER",
-    keywords: "person 02 placeholder letter",
+    song: "dorothea",
+    artist: "Taylor Swift",
+    spotifyId: "670fUmXf4KQekzbEgaXyPA",
+    keywords: "DBD, ML, Eunice, OG, Tall",
     preview: "A little preview of what this letter contains...",
-    text: `Dear Person 02,
+    text: `HIII Rachelle,
 
-[WRITE YOUR LETTER HERE]
+(Bisitahin mo 'ko sa school please) Us lang ba OG magka-duo ko on valo, DBD, ML, Brawlstars, Roblox, everywhere honestly. Though college has taken most of our personal time na, I hope you still ask me to play from time to time, I will join you.
 
-This is where your actual letter goes. You can write as much as you want.
-
-— me`
+— Cheng`
   },
   {
     elevated: true,
