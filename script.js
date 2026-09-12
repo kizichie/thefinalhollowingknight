@@ -18,23 +18,22 @@ const letters = [
     special: true, // Set special: true on any one letter to give it the deluxe design.
     // Optional recording: place letter-01.mp3 beside index.html (or change this path).
     voiceRecording: "letter-01.mp3",
-    voiceTitle: "A voice, kept here.",
+    voiceTitle: "Hear me?",
     voiceDescription: "A little recording that belongs only to this letter.",
     elevated: true,
-    person: "PERSON 01",
-    date: "SEPTEMBER 2026",
-    song: "SONG TITLE",
-    artist: "ARTIST NAME",
-    spotifyId: "PLACEHOLDER",
-    keywords: "person 01 placeholder letter",
-    preview: "A little preview of what this letter contains...",
-    text: `Dear Person 01,
+    person: "Xiel",
+    date: "SEPTEMBER 13, 2026",
+    song: "The Alchemy",
+    artist: "Taylor Swift",
+    spotifyId: "6tqTteXGKm2K3qi7RY2cFJ",
+    keywords: "Handsome, Smart, Genius, Lawyer, JD, Polsci, Polsay, Judge Xiel, Judge",
+    preview: "I admire you sm big guy",
+    text: `Hey Xiel,
 
-[WRITE YOUR LETTER HERE]
-
-This is where your actual letter goes. You can write as much as you want.
-
-— me`
+"I admire you so much smart guy. I cry when I read your letters na sobrang eloquent and well thought of. I hope you never lose the spark to write and serve the people. Judge Xiel, I have so much I wanna say to you but I don't have the words yet. Maybe I'll get to tell you gradually as time goes on. Go!! Our Pro bono lawyer!!"
+I wrote this last week and hesitated to send it as I found no purpose in giving you a cliffhanger, I know I could never express everything in just one letter but to the best of what the moment tells me I will write. 
+Fly and Fly father my Pro bono lawyer!! :D
+— Your MD, DVM`
   },
   {
     elevated: true,
